@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_001_AreaTriangulo_SemPooEComPoo</RootNamespace>
+    <RootNamespace>_038_AreaTriangulo_SemPoo</RootNamespace>
   </PropertyGroup>
 
 </Project>
