@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "066-Struct-Inicializacao", "066-Struct-Inicializacao\066-Struct-Inicializacao.csproj", "{E91D08D0-3B1F-400D-83DF-F12E488BD68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "068-StructNullable-NullCoalescingOperators", "..\068-StructNullable-NullCoalescingOperators\068-StructNullable-NullCoalescingOperators.csproj", "{6CBA6FE4-EE6D-49AB-B1D3-3E273E01862D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91D08D0-3B1F-400D-83DF-F12E488BD68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91D08D0-3B1F-400D-83DF-F12E488BD68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91D08D0-3B1F-400D-83DF-F12E488BD68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91D08D0-3B1F-400D-83DF-F12E488BD68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBA6FE4-EE6D-49AB-B1D3-3E273E01862D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBA6FE4-EE6D-49AB-B1D3-3E273E01862D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBA6FE4-EE6D-49AB-B1D3-3E273E01862D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBA6FE4-EE6D-49AB-B1D3-3E273E01862D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12810D1D-68E2-4860-B57C-62DB01EF7936}
+	EndGlobalSection
+EndGlobal

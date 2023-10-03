@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "069-StructVectores-Parte1", "069-StructVectores-Parte1\069-StructVectores-Parte1.csproj", "{F3BFCD22-8699-461F-BF2D-839F375363E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "070-ClasseVetores-Part2", "070-ClasseVectores-Parte2\070-ClasseVetores-Part2.csproj", "{3F38F0AF-0D30-4686-BC4C-F43A4246DF9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3BFCD22-8699-461F-BF2D-839F375363E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BFCD22-8699-461F-BF2D-839F375363E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BFCD22-8699-461F-BF2D-839F375363E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BFCD22-8699-461F-BF2D-839F375363E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F38F0AF-0D30-4686-BC4C-F43A4246DF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F38F0AF-0D30-4686-BC4C-F43A4246DF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F38F0AF-0D30-4686-BC4C-F43A4246DF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F38F0AF-0D30-4686-BC4C-F43A4246DF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD32410-B867-4574-9851-6D7406D44498}
+	EndGlobalSection
+EndGlobal
