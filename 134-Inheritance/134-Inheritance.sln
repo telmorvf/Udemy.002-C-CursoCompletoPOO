@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "139-Polimorfismo", "139-Pol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "140-Exerc.Paga.Funcioarios", "140-Exerc.Paga.Funcioarios\140-Exerc.Paga.Funcioarios.csproj", "{5C7DDCAC-A1F8-4D72-BED7-0C2F11AEE0A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "142-ExercicioProdutos", "142-ExercicioProdutos\142-ExercicioProdutos.csproj", "{5DB1A048-93F5-4EA3-9C21-9659333701B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5C7DDCAC-A1F8-4D72-BED7-0C2F11AEE0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C7DDCAC-A1F8-4D72-BED7-0C2F11AEE0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C7DDCAC-A1F8-4D72-BED7-0C2F11AEE0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB1A048-93F5-4EA3-9C21-9659333701B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB1A048-93F5-4EA3-9C21-9659333701B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB1A048-93F5-4EA3-9C21-9659333701B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB1A048-93F5-4EA3-9C21-9659333701B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
