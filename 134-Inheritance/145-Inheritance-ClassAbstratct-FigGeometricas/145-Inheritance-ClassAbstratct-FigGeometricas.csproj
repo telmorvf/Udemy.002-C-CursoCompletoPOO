@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_145_Inheritance_ClassAbstratct_FigGeometricas</RootNamespace>
+  </PropertyGroup>
+
+</Project>
