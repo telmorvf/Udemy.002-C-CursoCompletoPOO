@@ -7,15 +7,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "134-Heritage-BusinessAcount
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "136-Inheritance-BusinessAcount2", "136-Inheritance-BusinessAcount2\136-Inheritance-BusinessAcount2.csproj", "{65770BB9-AB84-4A25-BA86-E02D6A692293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "137-Virtual-Override", "ConsoleApp1\137-Virtual-Override.csproj", "{23154BF8-035C-4325-BE35-B93EACA1CE3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "137-Virtual-Override", "ConsoleApp1\137-Virtual-Override.csproj", "{23154BF8-035C-4325-BE35-B93EACA1CE3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "138.SealedClasse-Account", "138.SealedClasse-Account\138.SealedClasse-Account.csproj", "{E675B758-3CB3-465E-A571-CE589520EDF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "138.SealedClasse-Account", "138.SealedClasse-Account\138.SealedClasse-Account.csproj", "{E675B758-3CB3-465E-A571-CE589520EDF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "139-Polimorfismo", "139-Polimorfismo\139-Polimorfismo.csproj", "{B1389DB0-FA2D-4B23-A9DB-DEFECC894AC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "139-Polimorfismo", "139-Polimorfismo\139-Polimorfismo.csproj", "{B1389DB0-FA2D-4B23-A9DB-DEFECC894AC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "140-Exerc.Paga.Funcioarios", "140-Exerc.Paga.Funcioarios\140-Exerc.Paga.Funcioarios.csproj", "{5C7DDCAC-A1F8-4D72-BED7-0C2F11AEE0A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "140-Exerc.Paga.Funcioarios", "140-Exerc.Paga.Funcioarios\140-Exerc.Paga.Funcioarios.csproj", "{5C7DDCAC-A1F8-4D72-BED7-0C2F11AEE0A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "142-ExercicioProdutos", "142-ExercicioProdutos\142-ExercicioProdutos.csproj", "{5DB1A048-93F5-4EA3-9C21-9659333701B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "142-ExercicioProdutos", "142-ExercicioProdutos\142-ExercicioProdutos.csproj", "{5DB1A048-93F5-4EA3-9C21-9659333701B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "143-Inheritance-ClassesAbstrata1", "143-Inheritance-ClassesAbstratas1\143-Inheritance-ClassesAbstrata1.csproj", "{79ABF1F3-80CE-4749-8054-F53E82D75C73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "143-Inheritance-ClassesAbstrata2", "143-Inheritance-ClassesAbstratas2\143-Inheritance-ClassesAbstrata2.csproj", "{C1617288-6C83-492A-9232-AF21342349B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "145-Inheritance-ClassAbstratct-FigGeometricas", "145-Inheritance-ClassAbstratct-FigGeometricas\145-Inheritance-ClassAbstratct-FigGeometricas.csproj", "{6AB230F4-254A-473B-8360-ACE930FD71FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "146-Inheritance-Contribuintes", "146-Inheritance-Contribuintes\146-Inheritance-Contribuintes.csproj", "{B0DA2C07-13DE-441C-84CC-9E4E1945B24C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{5DB1A048-93F5-4EA3-9C21-9659333701B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB1A048-93F5-4EA3-9C21-9659333701B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB1A048-93F5-4EA3-9C21-9659333701B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79ABF1F3-80CE-4749-8054-F53E82D75C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79ABF1F3-80CE-4749-8054-F53E82D75C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79ABF1F3-80CE-4749-8054-F53E82D75C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79ABF1F3-80CE-4749-8054-F53E82D75C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1617288-6C83-492A-9232-AF21342349B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1617288-6C83-492A-9232-AF21342349B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1617288-6C83-492A-9232-AF21342349B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1617288-6C83-492A-9232-AF21342349B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB230F4-254A-473B-8360-ACE930FD71FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB230F4-254A-473B-8360-ACE930FD71FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB230F4-254A-473B-8360-ACE930FD71FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB230F4-254A-473B-8360-ACE930FD71FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DA2C07-13DE-441C-84CC-9E4E1945B24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DA2C07-13DE-441C-84CC-9E4E1945B24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DA2C07-13DE-441C-84CC-9E4E1945B24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DA2C07-13DE-441C-84CC-9E4E1945B24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
