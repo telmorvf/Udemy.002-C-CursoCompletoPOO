@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "200-Path", "200-Path\200-Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "201-Exercicio-WorkingWithCsvFiles", "201-Exercicio-WorkingWithCsvFiles\201-Exercicio-WorkingWithCsvFiles.csproj", "{6BD619CF-9CD0-48D9-BEFB-00E221E763D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "201-ExerResolvido-WorkingWithCsvFiles", "201-ExerResolvido-WorkingWithCsvFiles\201-ExerResolvido-WorkingWithCsvFiles.csproj", "{CBC5F7CD-5657-4D66-A44F-316E4B41A806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "201-ExerResolvido-WorkingWithCsvFiles", "201-ExerResolvido-WorkingWithCsvFiles\201-ExerResolvido-WorkingWithCsvFiles.csproj", "{CBC5F7CD-5657-4D66-A44F-316E4B41A806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "203-Interfaces", "..\203-Interfaces\203-Interfaces.csproj", "{8FBA6126-9DAD-4E55-B638-A04863307C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "204-AluguerCarros-SemInterfaces", "204-AluguerCarros-SemInterfaces\204-AluguerCarros-SemInterfaces.csproj", "{64C7E776-176D-4EE7-A813-EFB9FCD75D4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{CBC5F7CD-5657-4D66-A44F-316E4B41A806}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBC5F7CD-5657-4D66-A44F-316E4B41A806}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBC5F7CD-5657-4D66-A44F-316E4B41A806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBA6126-9DAD-4E55-B638-A04863307C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBA6126-9DAD-4E55-B638-A04863307C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBA6126-9DAD-4E55-B638-A04863307C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBA6126-9DAD-4E55-B638-A04863307C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C7E776-176D-4EE7-A813-EFB9FCD75D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C7E776-176D-4EE7-A813-EFB9FCD75D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C7E776-176D-4EE7-A813-EFB9FCD75D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C7E776-176D-4EE7-A813-EFB9FCD75D4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
