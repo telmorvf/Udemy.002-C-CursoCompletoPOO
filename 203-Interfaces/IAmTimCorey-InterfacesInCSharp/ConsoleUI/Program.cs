@@ -9,6 +9,9 @@ namespace ConsoleUI
 {
     class Program
     {
+        // Tim Corey - Interfaces in C# - What they are, how to use them, and why they are so powerful.
+        // https://www.youtube.com/watch?v=A7qwuFnyIpM&t=471s
+
         static void Main(string[] args)
         {
             List<IProductModel> cart = AddSampleData();
