@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2037
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{FE3304B9-70DB-4905-A040-1101FD0B4697}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimCorey-ConsoleUI", "ConsoleUI\TimCorey-ConsoleUI.csproj", "{FE3304B9-70DB-4905-A040-1101FD0B4697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{68ABF199-736A-46B1-B464-37A015FE9307}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimCorey-DemoLibrary", "DemoLibrary\TimCorey-DemoLibrary.csproj", "{68ABF199-736A-46B1-B464-37A015FE9307}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

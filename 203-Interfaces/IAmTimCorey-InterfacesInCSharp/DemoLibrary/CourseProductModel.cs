@@ -8,6 +8,9 @@ namespace DemoLibrary
 {
     public class CourseProductModel : IProductModel
     {
+        // // Tim Corey - Interfaces in C# - What they are, how to use them, and why they are so powerful.
+
+
         public string Title { get; set; }
         public bool HasOrderBeenCompleted { get; private set; }
 
