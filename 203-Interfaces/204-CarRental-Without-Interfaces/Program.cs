@@ -9,7 +9,6 @@ namespace _204_CarRental_Without_Interfaces
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Enter rental data");
             Console.Write("Car model: ");
             string model = Console.ReadLine();
