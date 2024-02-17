@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "203-Interfaces", "203-Interfaces\203-Interfaces.csproj", "{F3856257-6266-420E-B849-11B965BC5EAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "203-Interfaces_VAZIO", "203-Interfaces\203-Interfaces_VAZIO.csproj", "{F3856257-6266-420E-B849-11B965BC5EAC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "204-CarRental-Without-Interfaces", "204-CarRental-Without-Interfaces\204-CarRental-Without-Interfaces.csproj", "{FF303CAA-9006-40D3-981D-A65B572D0447}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "209-InterfaceWithInheritance-ShapeColor", "209-InterfaceWithInheritance-ShapeColor\209-InterfaceWithInheritance-ShapeColor.csproj", "{91DD4D14-E818-4FB8-9223-D04E3DB59B81}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "209A-InterfaceWithOutInheritance-ShapeColor", "209A-InterfaceWithOutInheritance-ShapeColor\209A-InterfaceWithOutInheritance-ShapeColor.csproj", "{4770BDBD-3A4C-46E4-BB42-A7DC23E28358}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "206-CarRental-With-Interfaces-Copy1", "206-CarRental-With-Interfaces-Copy1\206-CarRental-With-Interfaces-Copy1.csproj", "{12B961D8-86F6-478D-BF4D-2A1AB9DEE7CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4770BDBD-3A4C-46E4-BB42-A7DC23E28358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4770BDBD-3A4C-46E4-BB42-A7DC23E28358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4770BDBD-3A4C-46E4-BB42-A7DC23E28358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B961D8-86F6-478D-BF4D-2A1AB9DEE7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B961D8-86F6-478D-BF4D-2A1AB9DEE7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B961D8-86F6-478D-BF4D-2A1AB9DEE7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B961D8-86F6-478D-BF4D-2A1AB9DEE7CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

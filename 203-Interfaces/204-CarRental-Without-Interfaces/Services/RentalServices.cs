@@ -8,6 +8,7 @@ namespace _204_CarRental_Without_Interfaces.Services
         public double PricePerHour { get; private set; }
         public double PricePerDay { get; private set; }
 
+        // Não é a melhor forma de fazer, é explicado no exercicio 205 (seguinte)
         private TaxServiceBrazil _taxService = new TaxServiceBrazil();
 
         public RentalService(double pricePerHour, double pricePerDay)
@@ -19,7 +20,6 @@ namespace _204_CarRental_Without_Interfaces.Services
         public void ProcessInvoice(CarRental carRental)
         {
             TimeSpan duration = carRental.Finish.Subtract(carRental.Start);
-
             double basicPayment = 0.0;
             if (duration.TotalHours <= 12.0)
             {
@@ -31,7 +31,6 @@ namespace _204_CarRental_Without_Interfaces.Services
             }
 
             double tax = _taxService.Tax(basicPayment);
-
             carRental.Invoice = new Invoice(basicPayment, tax);
         }
     }
