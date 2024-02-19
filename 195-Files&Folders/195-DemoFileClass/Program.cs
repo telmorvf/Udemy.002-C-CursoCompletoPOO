@@ -8,8 +8,8 @@ namespace _195_DemoFileClass
         static void Main(string[] args)
         {
             // c:\...\195-DemoFileInfoClass\bin\Debug\net5.0\
-            string sourcePath = @"file1.txt";
-            string targetPath = @"file2.txt";
+            string sourcePath = @"..\..\..\file1.txt";
+            string targetPath = @"..\..\..\file2.txt";
             try
             {
                 //#File Class
