@@ -13,7 +13,10 @@ namespace _195_DemoFileInfoClass
             string targetPath = @"file2.txt";
             try
             {
-                //#FileInfo Class
+                //#FileInfo Class - énecesário instaciar o FileInfo, aumenta a performance e é recomendado para grandes projetos/ profisionais
+
+                //#File - Para ~um programa mais simples
+
                 FileInfo fileInfo = new FileInfo(sourcePath);
                 fileInfo.CopyTo(targetPath);
                 string[] lines = File.ReadAllLines(sourcePath);
