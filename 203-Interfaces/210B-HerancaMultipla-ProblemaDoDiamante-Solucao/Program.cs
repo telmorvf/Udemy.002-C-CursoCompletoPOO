@@ -11,7 +11,7 @@ namespace Course {
 
             Scanner s = new Scanner() { SerialNumber = 2003 };
             s.ProcessDoc("My Email");
-            Console.WriteLine(s.Scan());
+            Console.WriteLine(s.Scan() + "\n");
 
             ComboDevice c = new ComboDevice() { SerialNumber = 3921 };
             c.ProcessDoc("My dissertation");

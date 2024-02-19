@@ -6,6 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\209B-Interface+Inheritance=Both\209B-Interface+Inheritance=Both.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Update="Microsoft.NETCore.App" Version="2.1.29" />
   </ItemGroup>
 
