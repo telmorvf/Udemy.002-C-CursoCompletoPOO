@@ -21,7 +21,9 @@ namespace _215_GENERIC_T_Restrictions.Entities
                 throw new ArgumentException("Comparing error: argument is not an Product");
             }
             Product other = obj as Product;
+
             return Price.CompareTo(other.Price);
+            //return Name.CompareTo(other.Name);
         }
 
         public override string ToString()
