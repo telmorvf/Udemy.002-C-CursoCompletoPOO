@@ -6,7 +6,8 @@ namespace _214_Generics2_ReusableWithGENERIC
     {
         static void Main(string[] args)
         {
-            // Problema de Reuso, temos de andar a criar o print service para int, para strig, para produto, cliente, outras classes
+            // Problema de Reuso, temos de andar a criar o print service para int,
+            // para strig, para produto, cliente, outras classes
             // Solução passar a usar o GENERIC MAS COM TYPE T
 
             // "Alterando de int na classe para TYPE T com Type Safety e Performance

@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _214_Generics2_ReusableWithGENERIC
 {
     internal class PrintService<T>
     {
         private T[] _values = new T[10];
-
         private int _count = 0;
 
         public void AddValue(T value)
@@ -42,7 +37,6 @@ namespace _214_Generics2_ReusableWithGENERIC
             {
                 Console.WriteLine(_values[_count - 1] + "]");
             }
-
         }
     }
 }
