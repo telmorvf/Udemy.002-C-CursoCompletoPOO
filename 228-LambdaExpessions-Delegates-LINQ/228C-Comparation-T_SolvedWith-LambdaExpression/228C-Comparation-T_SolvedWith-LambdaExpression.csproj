@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_228C_Comparation_T_SolvedWith_LambdaExpression</RootNamespace>
+  </PropertyGroup>
+
+</Project>

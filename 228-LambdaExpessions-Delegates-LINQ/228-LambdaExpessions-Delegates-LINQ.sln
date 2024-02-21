@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228.LambdaExpessions-Delegates-LINQ-EMPTY", "228.LambdaExpessions-Delegates-LINQ-EMPTY-PROJECT\228.LambdaExpessions-Delegates-LINQ-EMPTY.csproj", "{5D2FC299-9A43-448C-A23E-BA96C9CEB797}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228A-Comparation-T_ProblemWithChangeSortInClass", "228A-Comparation-T_ProblemWithChangeSortInClass\228A-Comparation-T_ProblemWithChangeSortInClass.csproj", "{D76444F5-5691-4C78-8E51-1AA71DFA2185}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228B-Comparation-T_SolvedWithComparation-T", "228B-Comparation-T_SolvedWithComparation-T\228B-Comparation-T_SolvedWithComparation-T.csproj", "{7A06175A-DE00-4A4F-B493-F65D592BEA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "228C-Comparation-T_SolvedWith-LambdaExpression", "228C-Comparation-T_SolvedWith-LambdaExpression\228C-Comparation-T_SolvedWith-LambdaExpression.csproj", "{CA4E031C-4C81-4D85-971C-51114830A27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2FC299-9A43-448C-A23E-BA96C9CEB797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2FC299-9A43-448C-A23E-BA96C9CEB797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2FC299-9A43-448C-A23E-BA96C9CEB797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2FC299-9A43-448C-A23E-BA96C9CEB797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76444F5-5691-4C78-8E51-1AA71DFA2185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76444F5-5691-4C78-8E51-1AA71DFA2185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76444F5-5691-4C78-8E51-1AA71DFA2185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76444F5-5691-4C78-8E51-1AA71DFA2185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A06175A-DE00-4A4F-B493-F65D592BEA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A06175A-DE00-4A4F-B493-F65D592BEA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A06175A-DE00-4A4F-B493-F65D592BEA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A06175A-DE00-4A4F-B493-F65D592BEA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4E031C-4C81-4D85-971C-51114830A27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4E031C-4C81-4D85-971C-51114830A27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4E031C-4C81-4D85-971C-51114830A27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4E031C-4C81-4D85-971C-51114830A27F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3E9C3F-72EE-433C-B64A-6403A31A89B5}
+	EndGlobalSection
+EndGlobal
