@@ -9,7 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228A-Comparation-T_ProblemW
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228B-Comparation-T_SolvedWithComparation-T", "228B-Comparation-T_SolvedWithComparation-T\228B-Comparation-T_SolvedWithComparation-T.csproj", "{7A06175A-DE00-4A4F-B493-F65D592BEA5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "228C-Comparation-T_SolvedWith-LambdaExpression", "228C-Comparation-T_SolvedWith-LambdaExpression\228C-Comparation-T_SolvedWith-LambdaExpression.csproj", "{CA4E031C-4C81-4D85-971C-51114830A27F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228C-Comparation-T_SolvedWith-LambdaExpression", "228C-Comparation-T_SolvedWith-LambdaExpression\228C-Comparation-T_SolvedWith-LambdaExpression.csproj", "{CA4E031C-4C81-4D85-971C-51114830A27F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "232-Delegates3-Predicate-RemoveAll", "232-Delegates3-Predicate-RemoveAll\232-Delegates3-Predicate-RemoveAll.csproj", "{3D9C3F67-322A-4317-BC33-9A803ADD19B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "233-Delegates4-Action-ForEach", "233-Delegates4-Action-ForEach\233-Delegates4-Action-ForEach.csproj", "{E1896BB9-F039-4F67-8065-0090C2692401}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "230-Delegates1-Introduction", "230-Delegates1-Introduction\230-Delegates1-Introduction.csproj", "{BDFFD476-BFBE-456C-9ED5-3A8C52C73B37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "231-Delegates2-Multicasting", "231-Delegates2-Multicasting\231-Delegates2-Multicasting.csproj", "{35AC6E05-EC95-431D-9384-9014A88308AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "234-Delegates5-Func_LINQ-Select", "234-Delegates5-Func_LINQ-Select\234-Delegates5-Func_LINQ-Select.csproj", "{4733B967-9BB1-446B-96E6-DD83FAC5416A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{CA4E031C-4C81-4D85-971C-51114830A27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA4E031C-4C81-4D85-971C-51114830A27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA4E031C-4C81-4D85-971C-51114830A27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9C3F67-322A-4317-BC33-9A803ADD19B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9C3F67-322A-4317-BC33-9A803ADD19B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9C3F67-322A-4317-BC33-9A803ADD19B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9C3F67-322A-4317-BC33-9A803ADD19B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1896BB9-F039-4F67-8065-0090C2692401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1896BB9-F039-4F67-8065-0090C2692401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1896BB9-F039-4F67-8065-0090C2692401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1896BB9-F039-4F67-8065-0090C2692401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFFD476-BFBE-456C-9ED5-3A8C52C73B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFFD476-BFBE-456C-9ED5-3A8C52C73B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFFD476-BFBE-456C-9ED5-3A8C52C73B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFFD476-BFBE-456C-9ED5-3A8C52C73B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AC6E05-EC95-431D-9384-9014A88308AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AC6E05-EC95-431D-9384-9014A88308AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AC6E05-EC95-431D-9384-9014A88308AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AC6E05-EC95-431D-9384-9014A88308AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4733B967-9BB1-446B-96E6-DD83FAC5416A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4733B967-9BB1-446B-96E6-DD83FAC5416A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4733B967-9BB1-446B-96E6-DD83FAC5416A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4733B967-9BB1-446B-96E6-DD83FAC5416A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
