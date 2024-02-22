@@ -17,11 +17,11 @@ namespace _234_Delegates5_Func_LINQ_Select
             list.Add(new Product("HD Case", 80.90));
 
             // 1. Por referência directa para o método
-            // Reference Method
+            // Reference Method - NameUpper
             List<string> result1 = list.Select(NameUpper).ToList();
 
             // 2. sem referência directa para o método
-            // Variable to reference method
+            // Variable to reference method  - NameUpper
             Func<Product, string> func = NameUpper; // Declarar um Delegate 
             List<string> result2 = list.Select(func).ToList();
 
