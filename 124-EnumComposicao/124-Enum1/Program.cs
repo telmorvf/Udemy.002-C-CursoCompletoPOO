@@ -24,7 +24,7 @@ namespace Enum1.Entities
             Console.WriteLine(os);
             Console.WriteLine();
 
-            // ara o tipo original: use casting ---------------------
+            // para o tipo original: use casting ---------------------
             OrderStatus os1 = (OrderStatus)2;
             int n1 = (int)OrderStatus.Shipped;
 

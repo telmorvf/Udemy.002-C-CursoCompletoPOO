@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "127- Composition1", "127- Composition1\127- Composition1.csproj", "{77A5F77B-A27A-4B9C-81DC-5C05E4ACD93A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = ".124-EnumComposicao", ".124-EnumComposicao\.124-EnumComposicao.csproj", "{57F65D9E-4C19-4215-BF9F-819315EEFB4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = ".124-EnumComposicao-EMPTY", ".124-EnumComposicao\.124-EnumComposicao-EMPTY.csproj", "{57F65D9E-4C19-4215-BF9F-819315EEFB4B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "124-Enum1", "124-Enum1\124-Enum1.csproj", "{AA1C39D6-0353-4014-AB0B-9EBCDD52D404}"
 EndProject
