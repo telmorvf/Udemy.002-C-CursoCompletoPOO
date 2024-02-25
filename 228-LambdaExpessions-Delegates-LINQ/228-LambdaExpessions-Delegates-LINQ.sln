@@ -11,19 +11,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228B-Comparation-T_SolvedWi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "228C-Comparation-T_SolvedWith-LambdaExpression", "228C-Comparation-T_SolvedWith-LambdaExpression\228C-Comparation-T_SolvedWith-LambdaExpression.csproj", "{CA4E031C-4C81-4D85-971C-51114830A27F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "232-Delegates3-Predicate-RemoveAll", "232-Delegates3-Predicate-RemoveAll\232-Delegates3-Predicate-RemoveAll.csproj", "{3D9C3F67-322A-4317-BC33-9A803ADD19B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "232-Delegates3-Predicate-RemoveAll", "232-Delegates3-Predicate-RemoveAll\232-Delegates3-Predicate-RemoveAll.csproj", "{3D9C3F67-322A-4317-BC33-9A803ADD19B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "233-Delegates4-Action-ForEach", "233-Delegates4-Action-ForEach\233-Delegates4-Action-ForEach.csproj", "{E1896BB9-F039-4F67-8065-0090C2692401}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "233-Delegates4-Action-ForEach", "233-Delegates4-Action-ForEach\233-Delegates4-Action-ForEach.csproj", "{E1896BB9-F039-4F67-8065-0090C2692401}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "230-Delegates1-Introduction", "230-Delegates1-Introduction\230-Delegates1-Introduction.csproj", "{BDFFD476-BFBE-456C-9ED5-3A8C52C73B37}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "231-Delegates2-Multicasting", "231-Delegates2-Multicasting\231-Delegates2-Multicasting.csproj", "{35AC6E05-EC95-431D-9384-9014A88308AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "234-Delegates5-Func_LINQ-Select", "234-Delegates5-Func_LINQ-Select\234-Delegates5-Func_LINQ-Select.csproj", "{4733B967-9BB1-446B-96E6-DD83FAC5416A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "234-Delegates5-Func_LINQ-Select", "234-Delegates5-Func_LINQ-Select\234-Delegates5-Func_LINQ-Select.csproj", "{4733B967-9BB1-446B-96E6-DD83FAC5416A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "235-LINQ-Demo1", "235-LINQ-Demo1\235-LINQ-Demo1.csproj", "{19D2794D-9164-4D9E-B4EE-1BE081C2B1ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "235-LINQ-Demo1", "235-LINQ-Demo1\235-LINQ-Demo1.csproj", "{19D2794D-9164-4D9E-B4EE-1BE081C2B1ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "237-LINQ-WithExpressionLambda", "237-LINQ-WithExpressionLambda\237-LINQ-WithExpressionLambda.csproj", "{78FFA8E2-FCB6-49AE-8AF2-D1BDD87985E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "237-LINQ-WithExpressionLambda", "237-LINQ-WithExpressionLambda\237-LINQ-WithExpressionLambda.csproj", "{78FFA8E2-FCB6-49AE-8AF2-D1BDD87985E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "240-LINQ-NotationAs-SQL", "240-LINQ-NotationAs-SQL\240-LINQ-NotationAs-SQL.csproj", "{08DC4D12-1C05-488C-B718-FD8DEF8E94EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "241-LINQ-Exercice1-FromFile-AveragePrice", "241-LINQ-Exercice1-FromFile-AveragePrice\241-LINQ-Exercice1-FromFile-AveragePrice.csproj", "{A3ECE099-35CE-4BC7-A291-A70553A1A9C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242-LINQ-Exercice2-FromFile-EmployeeEmail-Sum", "242-LINQ-Exercice2-FromFile-EmployeeEmail-Sum\242-LINQ-Exercice2-FromFile-EmployeeEmail-Sum.csproj", "{E1DC0F7C-4CBF-4D54-B149-14410EAE1B26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{78FFA8E2-FCB6-49AE-8AF2-D1BDD87985E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78FFA8E2-FCB6-49AE-8AF2-D1BDD87985E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78FFA8E2-FCB6-49AE-8AF2-D1BDD87985E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DC4D12-1C05-488C-B718-FD8DEF8E94EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DC4D12-1C05-488C-B718-FD8DEF8E94EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DC4D12-1C05-488C-B718-FD8DEF8E94EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DC4D12-1C05-488C-B718-FD8DEF8E94EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3ECE099-35CE-4BC7-A291-A70553A1A9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ECE099-35CE-4BC7-A291-A70553A1A9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ECE099-35CE-4BC7-A291-A70553A1A9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ECE099-35CE-4BC7-A291-A70553A1A9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DC0F7C-4CBF-4D54-B149-14410EAE1B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DC0F7C-4CBF-4D54-B149-14410EAE1B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DC0F7C-4CBF-4D54-B149-14410EAE1B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DC0F7C-4CBF-4D54-B149-14410EAE1B26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

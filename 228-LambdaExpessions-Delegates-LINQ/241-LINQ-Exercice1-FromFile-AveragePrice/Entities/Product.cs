@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Globalization;
 
-namespace _234_Delegates5.Entities
+namespace _241_LINQ_Exercice1_FromFile_AveragePrice.Entities
 {
     internal class Product
     {
         public string Name { get; set; }
-
         public double Price { get; set; }
 
         public Product(string name, double price)
